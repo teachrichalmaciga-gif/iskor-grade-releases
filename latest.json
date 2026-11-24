@@ -1,14 +1,15 @@
 {
-  "version": "1.1.4",
-  "date": "2026-11-24",
+  "version": "1.1.5",
+  "date": "2026-11-25",
   "notes": [
-    "Plus plan: a larger monthly number of scans for one teacher",
-    "The free scan limit is now set by NEXTmindPH and cannot be changed in server.env",
-    "Scan limit texts updated on desktop and phone"
+    "Each teacher now sees only their own learners",
+    "New teachers need a sign-up code, shown in My Account",
+    "Automatic daily backup of all grades, with Back up now and Restore in My Account",
+    "Security updates (Electron, sharp, express)"
   ],
-  "page": "https://github.com/teachrichalmaciga-gif/iskor-grade-releases/releases/tag/v1.1.4",
-  "server_url": "https://github.com/teachrichalmaciga-gif/iskor-grade-releases/releases/download/v1.1.4/ISKOR-GRADE-Server-Setup-1.1.4.exe",
-  "desktop_url": "https://github.com/teachrichalmaciga-gif/iskor-grade-releases/releases/download/v1.1.4/ISKOR-GRADE-Setup-1.1.4.exe",
-  "apk_url": "https://github.com/teachrichalmaciga-gif/iskor-grade-releases/releases/download/v1.1.4/ISKOR-GRADE-1.1.4.apk",
+  "page": "https://github.com/teachrichalmaciga-gif/iskor-grade-releases/releases/tag/v1.1.5",
+  "server_url": "https://github.com/teachrichalmaciga-gif/iskor-grade-releases/releases/download/v1.1.5/ISKOR-GRADE-Server-Setup-1.1.5.exe",
+  "desktop_url": "https://github.com/teachrichalmaciga-gif/iskor-grade-releases/releases/download/v1.1.5/ISKOR-GRADE-Setup-1.1.5.exe",
+  "apk_url": "https://github.com/teachrichalmaciga-gif/iskor-grade-releases/releases/download/v1.1.5/ISKOR-GRADE-1.1.5.apk",
   "min_phone_version": "1.1.1"
 }
