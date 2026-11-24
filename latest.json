@@ -1,14 +1,14 @@
 {
-  "version": "1.1.3",
-  "date": "2026-11-20",
+  "version": "1.1.4",
+  "date": "2026-11-24",
   "notes": [
-    "Update notice: the Dashboard shows when a new version is out",
-    "Phones update from the laptop over Wi-Fi (no internet needed on the phone)",
-    "Quiz No. 1 to 5 for the 5 ECR quiz columns"
+    "Plus plan: a larger monthly number of scans for one teacher",
+    "The free scan limit is now set by NEXTmindPH and cannot be changed in server.env",
+    "Scan limit texts updated on desktop and phone"
   ],
-  "page": "https://github.com/teachrichalmaciga-gif/iskor-grade-releases/releases/tag/v1.1.3",
-  "server_url": "https://github.com/teachrichalmaciga-gif/iskor-grade-releases/releases/download/v1.1.3/ISKOR-GRADE-Server-Setup-1.1.3.exe",
-  "desktop_url": "https://github.com/teachrichalmaciga-gif/iskor-grade-releases/releases/download/v1.1.3/ISKOR-GRADE-Setup-1.1.3.exe",
-  "apk_url": "https://github.com/teachrichalmaciga-gif/iskor-grade-releases/releases/download/v1.1.3/ISKOR-GRADE-1.1.3.apk",
+  "page": "https://github.com/teachrichalmaciga-gif/iskor-grade-releases/releases/tag/v1.1.4",
+  "server_url": "https://github.com/teachrichalmaciga-gif/iskor-grade-releases/releases/download/v1.1.4/ISKOR-GRADE-Server-Setup-1.1.4.exe",
+  "desktop_url": "https://github.com/teachrichalmaciga-gif/iskor-grade-releases/releases/download/v1.1.4/ISKOR-GRADE-Setup-1.1.4.exe",
+  "apk_url": "https://github.com/teachrichalmaciga-gif/iskor-grade-releases/releases/download/v1.1.4/ISKOR-GRADE-1.1.4.apk",
   "min_phone_version": "1.1.1"
 }
