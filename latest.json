@@ -1,13 +1,12 @@
 {
-  "version": "1.2.2",
+  "version": "1.2.3",
   "date": "2026-11-25",
   "notes": [
-    "Each server has one owner: only the owner can restore a backup or activate a license",
-    "The owner can hand this over to another teacher in My Account"
+    "The phone and the desktop app show the username next to the teacher's name"
   ],
-  "page": "https://github.com/teachrichalmaciga-gif/iskor-grade-releases/releases/tag/v1.2.2",
-  "server_url": "https://github.com/teachrichalmaciga-gif/iskor-grade-releases/releases/download/v1.2.2/ISKOR-GRADE-Server-Setup-1.2.2.exe",
-  "desktop_url": "https://github.com/teachrichalmaciga-gif/iskor-grade-releases/releases/download/v1.2.2/ISKOR-GRADE-Setup-1.2.2.exe",
-  "apk_url": "https://github.com/teachrichalmaciga-gif/iskor-grade-releases/releases/download/v1.2.2/ISKOR-GRADE-1.2.2.apk",
+  "page": "https://github.com/teachrichalmaciga-gif/iskor-grade-releases/releases/tag/v1.2.3",
+  "server_url": "https://github.com/teachrichalmaciga-gif/iskor-grade-releases/releases/download/v1.2.3/ISKOR-GRADE-Server-Setup-1.2.3.exe",
+  "desktop_url": "https://github.com/teachrichalmaciga-gif/iskor-grade-releases/releases/download/v1.2.3/ISKOR-GRADE-Setup-1.2.3.exe",
+  "apk_url": "https://github.com/teachrichalmaciga-gif/iskor-grade-releases/releases/download/v1.2.3/ISKOR-GRADE-1.2.3.apk",
   "min_phone_version": "1.1.1"
 }
