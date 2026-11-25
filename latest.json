@@ -1,14 +1,14 @@
 {
-  "version": "1.2.0",
+  "version": "1.2.1",
   "date": "2026-11-25",
   "notes": [
-    "Encrypted connection (HTTPS) between the phone and the laptop on the Wi-Fi",
-    "The phone and other computers remember the laptop's certificate and refuse a fake server",
-    "Phones switch to HTTPS by themselves at the next sync"
+    "The Dashboard warns when Windows marks the Wi-Fi Public, which blocks the phones, and says how to fix it",
+    "The phone keeps its sign-in encrypted",
+    "Security and stability fixes"
   ],
-  "page": "https://github.com/teachrichalmaciga-gif/iskor-grade-releases/releases/tag/v1.2.0",
-  "server_url": "https://github.com/teachrichalmaciga-gif/iskor-grade-releases/releases/download/v1.2.0/ISKOR-GRADE-Server-Setup-1.2.0.exe",
-  "desktop_url": "https://github.com/teachrichalmaciga-gif/iskor-grade-releases/releases/download/v1.2.0/ISKOR-GRADE-Setup-1.2.0.exe",
-  "apk_url": "https://github.com/teachrichalmaciga-gif/iskor-grade-releases/releases/download/v1.2.0/ISKOR-GRADE-1.2.0.apk",
+  "page": "https://github.com/teachrichalmaciga-gif/iskor-grade-releases/releases/tag/v1.2.1",
+  "server_url": "https://github.com/teachrichalmaciga-gif/iskor-grade-releases/releases/download/v1.2.1/ISKOR-GRADE-Server-Setup-1.2.1.exe",
+  "desktop_url": "https://github.com/teachrichalmaciga-gif/iskor-grade-releases/releases/download/v1.2.1/ISKOR-GRADE-Setup-1.2.1.exe",
+  "apk_url": "https://github.com/teachrichalmaciga-gif/iskor-grade-releases/releases/download/v1.2.1/ISKOR-GRADE-1.2.1.apk",
   "min_phone_version": "1.1.1"
 }
