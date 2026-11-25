@@ -1,12 +1,12 @@
 {
-  "version": "1.2.3",
+  "version": "1.2.4",
   "date": "2026-11-25",
   "notes": [
-    "The phone and the desktop app show the username next to the teacher's name"
+    "The phone finds the 4 corner markers in dim light or slightly blurred photos"
   ],
-  "page": "https://github.com/teachrichalmaciga-gif/iskor-grade-releases/releases/tag/v1.2.3",
-  "server_url": "https://github.com/teachrichalmaciga-gif/iskor-grade-releases/releases/download/v1.2.3/ISKOR-GRADE-Server-Setup-1.2.3.exe",
-  "desktop_url": "https://github.com/teachrichalmaciga-gif/iskor-grade-releases/releases/download/v1.2.3/ISKOR-GRADE-Setup-1.2.3.exe",
-  "apk_url": "https://github.com/teachrichalmaciga-gif/iskor-grade-releases/releases/download/v1.2.3/ISKOR-GRADE-1.2.3.apk",
+  "page": "https://github.com/teachrichalmaciga-gif/iskor-grade-releases/releases/tag/v1.2.4",
+  "server_url": "https://github.com/teachrichalmaciga-gif/iskor-grade-releases/releases/download/v1.2.4/ISKOR-GRADE-Server-Setup-1.2.4.exe",
+  "desktop_url": "https://github.com/teachrichalmaciga-gif/iskor-grade-releases/releases/download/v1.2.4/ISKOR-GRADE-Setup-1.2.4.exe",
+  "apk_url": "https://github.com/teachrichalmaciga-gif/iskor-grade-releases/releases/download/v1.2.4/ISKOR-GRADE-1.2.4.apk",
   "min_phone_version": "1.1.1"
 }
