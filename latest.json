@@ -1,14 +1,13 @@
 {
-  "version": "1.2.1",
+  "version": "1.2.2",
   "date": "2026-11-25",
   "notes": [
-    "The Dashboard warns when Windows marks the Wi-Fi Public, which blocks the phones, and says how to fix it",
-    "The phone keeps its sign-in encrypted",
-    "Security and stability fixes"
+    "Each server has one owner: only the owner can restore a backup or activate a license",
+    "The owner can hand this over to another teacher in My Account"
   ],
-  "page": "https://github.com/teachrichalmaciga-gif/iskor-grade-releases/releases/tag/v1.2.1",
-  "server_url": "https://github.com/teachrichalmaciga-gif/iskor-grade-releases/releases/download/v1.2.1/ISKOR-GRADE-Server-Setup-1.2.1.exe",
-  "desktop_url": "https://github.com/teachrichalmaciga-gif/iskor-grade-releases/releases/download/v1.2.1/ISKOR-GRADE-Setup-1.2.1.exe",
-  "apk_url": "https://github.com/teachrichalmaciga-gif/iskor-grade-releases/releases/download/v1.2.1/ISKOR-GRADE-1.2.1.apk",
+  "page": "https://github.com/teachrichalmaciga-gif/iskor-grade-releases/releases/tag/v1.2.2",
+  "server_url": "https://github.com/teachrichalmaciga-gif/iskor-grade-releases/releases/download/v1.2.2/ISKOR-GRADE-Server-Setup-1.2.2.exe",
+  "desktop_url": "https://github.com/teachrichalmaciga-gif/iskor-grade-releases/releases/download/v1.2.2/ISKOR-GRADE-Setup-1.2.2.exe",
+  "apk_url": "https://github.com/teachrichalmaciga-gif/iskor-grade-releases/releases/download/v1.2.2/ISKOR-GRADE-1.2.2.apk",
   "min_phone_version": "1.1.1"
 }
