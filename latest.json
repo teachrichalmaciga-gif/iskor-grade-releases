@@ -1,12 +1,13 @@
 {
-  "version": "1.2.4",
-  "date": "2026-11-25",
+  "version": "1.2.5",
+  "date": "2026-11-26",
   "notes": [
-    "The phone finds the 4 corner markers in dim light or slightly blurred photos"
+    "Answer sheets 4 per A4 page (up to 40 items): each quarter fills the phone camera, so scans are more reliable",
+    "Choose a Section next to the Subject when creating an assessment"
   ],
-  "page": "https://github.com/teachrichalmaciga-gif/iskor-grade-releases/releases/tag/v1.2.4",
-  "server_url": "https://github.com/teachrichalmaciga-gif/iskor-grade-releases/releases/download/v1.2.4/ISKOR-GRADE-Server-Setup-1.2.4.exe",
-  "desktop_url": "https://github.com/teachrichalmaciga-gif/iskor-grade-releases/releases/download/v1.2.4/ISKOR-GRADE-Setup-1.2.4.exe",
-  "apk_url": "https://github.com/teachrichalmaciga-gif/iskor-grade-releases/releases/download/v1.2.4/ISKOR-GRADE-1.2.4.apk",
+  "page": "https://github.com/teachrichalmaciga-gif/iskor-grade-releases/releases/tag/v1.2.5",
+  "server_url": "https://github.com/teachrichalmaciga-gif/iskor-grade-releases/releases/download/v1.2.5/ISKOR-GRADE-Server-Setup-1.2.5.exe",
+  "desktop_url": "https://github.com/teachrichalmaciga-gif/iskor-grade-releases/releases/download/v1.2.5/ISKOR-GRADE-Setup-1.2.5.exe",
+  "apk_url": "https://github.com/teachrichalmaciga-gif/iskor-grade-releases/releases/download/v1.2.5/ISKOR-GRADE-1.2.5.apk",
   "min_phone_version": "1.1.1"
 }
