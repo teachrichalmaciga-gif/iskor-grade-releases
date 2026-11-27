@@ -1,13 +1,14 @@
 {
-  "version": "1.2.6",
+  "version": "1.2.7",
   "date": "2026-11-27",
   "notes": [
+    "Answer key numbered down two columns (1-20 left, 21-40 right), like the printed sheet",
     "Type a new Section on an assessment, or choose one from the suggestions",
     "Answer sheets 4 per A4 page (up to 40 items) for more reliable phone scans"
   ],
-  "page": "https://github.com/teachrichalmaciga-gif/iskor-grade-releases/releases/tag/v1.2.6",
-  "server_url": "https://github.com/teachrichalmaciga-gif/iskor-grade-releases/releases/download/v1.2.6/ISKOR-GRADE-Server-Setup-1.2.6.exe",
-  "desktop_url": "https://github.com/teachrichalmaciga-gif/iskor-grade-releases/releases/download/v1.2.6/ISKOR-GRADE-Setup-1.2.6.exe",
-  "apk_url": "https://github.com/teachrichalmaciga-gif/iskor-grade-releases/releases/download/v1.2.6/ISKOR-GRADE-1.2.6.apk",
+  "page": "https://github.com/teachrichalmaciga-gif/iskor-grade-releases/releases/tag/v1.2.7",
+  "server_url": "https://github.com/teachrichalmaciga-gif/iskor-grade-releases/releases/download/v1.2.7/ISKOR-GRADE-Server-Setup-1.2.7.exe",
+  "desktop_url": "https://github.com/teachrichalmaciga-gif/iskor-grade-releases/releases/download/v1.2.7/ISKOR-GRADE-Setup-1.2.7.exe",
+  "apk_url": "https://github.com/teachrichalmaciga-gif/iskor-grade-releases/releases/download/v1.2.7/ISKOR-GRADE-1.2.7.apk",
   "min_phone_version": "1.1.1"
 }
